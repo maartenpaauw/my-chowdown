@@ -6,7 +6,7 @@ image: green-chile-stew.jpg
 imagecredit: https://flic.kr/p/4CJb65
 
 ingredients:
-- 1 jar of [green chile stew mix](http://amzn.to/1KYXSjo)
+- 1 jar of [green chile stew mix](https://amzn.to/1KYXSjo)
 - 1lb ground chicken
 - 1 red onion
 - 1 green onion

@@ -21,6 +21,6 @@ directions:
 
 ---
 
-A lot of places are doing dang good brussels lately, but none can touch [Salty Sow](http://saltysow.com/). They serve them fried, topped with pecorino and golden raisins. Yes, please.
+A lot of places are doing dang good brussels lately, but none can touch [Salty Sow](https://saltysow.com/). They serve them fried, topped with pecorino and golden raisins. Yes, please.
 
 We started trying to emulate it, but it's such a versatile dish, you can make it however you want. Consider this a loose guide.

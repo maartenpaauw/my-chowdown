@@ -2,7 +2,7 @@
 
 A simple, plaintext recipe database for hackers
 
-[http://chowdown.io](http://chowdown.io)
+[https://chowdown.io](https://chowdown.io)
 
 # Getting Started
 
@@ -18,7 +18,7 @@ Clone or download this repo. Navigate to the folder in terminal (or iTerm, etc),
 
 ```jekyll serve```
 
-With default settings, you should be able to view the site locally at `http://127.0.0.1:4000/`
+With default settings, you should be able to view the site locally at `https://127.0.0.1:4000/`
 
 # Writing a Recipe
 
@@ -45,4 +45,4 @@ A component recipe is a special recipe made up of other recipes. To make a new c
 You can an example on the Red Berry Tart recipe. 
 
 - [example Markdown](https://raw.githubusercontent.com/clarklab/chowdown/gh-pages/_recipes/red-berry-tart.md)
-- [example recipe page](http://chowdown.io/recipes/red-berry-tart.html)
+- [example recipe page](https://chowdown.io/recipes/red-berry-tart.html)
