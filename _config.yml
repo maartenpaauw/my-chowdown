@@ -8,6 +8,7 @@ github_username:  clarklab
 
 # Build settings
 markdown: kramdown
+theme: chowdown
 
 collections:
   components:
