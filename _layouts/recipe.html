@@ -33,20 +33,22 @@ layout: default
   
     <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
+      {% if page.ingredients %}
+      <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
+      <ul itemprop="ingredients">
+        <!-- list ingredients that make up recipe -->
+        {% for ingredient in page.ingredients %}
+        <li itemprop="ingredient">{{ ingredient | markdownify }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
       {% if page.components %}
       <h4 class="blue mt0 mb2 xs-center">Components</h4>
       <ul>
         <!-- list components that make up recipe -->
         {% for component in page.components %}
         <li>{{ component | markdownify }}</li>
-        {% endfor %}
-      </ul>
-      {% else %}
-      <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
-      <ul itemprop="ingredients">
-        <!-- list ingredients that make up recipe -->
-        {% for ingredient in page.ingredients %}
-        <li itemprop="ingredient">{{ ingredient | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
