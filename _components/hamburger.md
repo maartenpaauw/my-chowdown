@@ -1,23 +1,32 @@
 ---
 
 layout: recipe
-title:  "Gebakken Aardappelen"
-# image: gebakken-aardappelen.jpg
+title:  "Hamburger"
+# image: hamburger.jpg
 
 ingredients:
-- Aardappelen
+- Gehakt
+- Ei
+- Ui
+- Ketjap Manis
+- Go-Tan Sri­ra­cha Sau­ce Hot Chil­li
+- Ketchup
 - Zout
 - Peper
-- Knoflook poeder
+- Knoflook (poeder)
 - Bak en Braad
-- Olijfolie
 
 directions:
-- Schil de aardappelen.
-- Kook de aardappelen 10 minuten.
-- Snij de aardappelen in kleine stukjes.
-- Bak de aardappelen in bak en braad gemengd met olijfolie.
-- Voeg na 10 minuten de specerijen toe.
+- Doe het gehakt in een beslagkom.
+- Snij de ui in kleine blokjes en voeg het toe.
+- Voeg het ei toe.
+- Voeg de Ketchup, Ketjap Manis en de Go-Tan Sri­ra­cha Sau­ce Hot Chil­li toe.
+- Roer het door elkaar met een vork.
+- Voeg de specerijen toe.
+- Roer dit door elkaar met een vork.
+- Kneed de mix met de hand tot twee bollen.
+- Pers met hulp van een burgerpers twee burgers.
+- Bak de burgers op laag vuur in Bak en Braad.
 
 ---
 
